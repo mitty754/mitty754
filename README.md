@@ -13,8 +13,9 @@
 </div>
 
 <!--Header Name-->
-# :smile_cat: ɪ'ᴍ ᴋɪʀᴀɴ! 
-*Digital Craftsman (Developer / Programmer)*
+# :smile_cat: ᴛᴀʟ ᴠᴇᴢ...ᴍᴇ ᴘᴀsᴇ ᴄᴏɴ ʟᴏs ɢᴀᴛᴏs!
+ 
+*Perdido Digitalmente (Desarrollador / Programador)*
 <br /> 
 
 <!--Start Intro-->               
