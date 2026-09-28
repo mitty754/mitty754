@@ -37,14 +37,13 @@
 
 
 <!--Trophies Section-->   
-<br />
 <h2 align="center">🏆 Trofeos de Github 🏆</h2>
+<h2 align="center">Cargando...osea nada jajajaj...aun</h2> 
 <br />
-<h2 align="center">Cargando...</h2> 
 <br />
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center">📊 Estadísticas de Github 📊</h2>
 
 <table width="100%">
   <tr>
