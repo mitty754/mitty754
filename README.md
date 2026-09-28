@@ -9,7 +9,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://github.com/mitty754/mitty754/blob/main/stars.jpg">
+  <img align="right" width="40%" src="https://github.com/mitty754/mitty754/blob/main/stars.png">
 </div>
 
 <!--Header Name-->
