@@ -37,8 +37,9 @@
 
 
 <!--Trophies Section-->   
-<h2 align="center">    </h2>  
+<br />
 <h2 align="center">🏆 Trofeos de Github 🏆</h2>
+<br />
 <h2 align="center">Cargando...</h2> 
 <br />
 
@@ -130,7 +131,3 @@
 </p>
 
 ------
-
-Credit: [Kiran1689](https://github.com/Kiran1689)
-
-Last Edited on: 29/11/2023
