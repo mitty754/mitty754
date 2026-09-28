@@ -1,5 +1,5 @@
 <!--Banner-->
-<img src="./my_banner.png" alt="Banner de mitty754" width="100%">
+![mitty754 Banner Image](https://github.com/mitty754/mitty754/blob/main/my_banner.png)
 
 <!--Night Owl image-->
 <div>
