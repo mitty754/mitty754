@@ -19,7 +19,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">Soy desarrollador Full Stack y entusiasta del Machine Learning, con una enorme preferencia por Python, React.js, Node.js, Django, RDBMS, REST API y la visualización de datos. </p>
 
 - ✨ Vida de estudiante :)
 - 🌱 Cada día me quedo mas ciego pero es divertido.
@@ -28,16 +28,8 @@
 - ✍ Todo esto obvio no es profesional, pero por ahora estará bien, creo.
 <!--End Intro-->
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
-</p>
-
----
-<br />
-
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">Lenguajes y Herramientas</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
 </p>
@@ -45,12 +37,8 @@
 
 
 <!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/Kiran1689/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kiran1689&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
-  </a>
-</p>
+<h2 align="center">🏆 Trofeos de Github 🏆</h2>
+<h2 align="center">Cargando...</h2> 
 <br />
 
 <!--Github stats Table--> 
