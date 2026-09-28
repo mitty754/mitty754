@@ -52,7 +52,7 @@
     <td width="33%" align="center">
       <h3><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <a href="https://github.com/mitty754">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mitty754&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mitty754&theme=nightowl" alt="GitHub Stats" />
       </a>
     </td>
     <td width="33%" align="center">
@@ -64,7 +64,7 @@
     <td width="33%" align="center">
       <h3><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
       <a href="https://github.com/mitty754">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitty754&layout=compact&theme=nightowl" alt="Top Languages" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mitty754&theme=nightowl" alt="Top Languages" />
       </a>
     </td>
   </tr>
@@ -72,13 +72,7 @@
 
 <br />
 
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
-</div>
 
----
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
