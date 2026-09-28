@@ -62,29 +62,9 @@
       </a>
     </td>
     <td width="33%" align="center">
-      <h3><strong>Tᴏᴘ Lᴀɴɢs</strong></h3>
+      <h3><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
       <a href="https://github.com/mitty754">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitty754&layout=compact&theme=nightowl" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <h3><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <a href="https://github.com/mitty754/mitty754">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mitty754&repo=mitty754&theme=nightowl&show_owner=true" alt="Latest Project" />
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <h3><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <a href="https://github.com/mitty754">
-        <img width="100%" src="https://github-contributor-stats.vercel.app/api?username=mitty754&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Contributions" />
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <h3><strong>Rᴇᴘᴏs Pᴜ́ʙʟɪᴄᴏs</strong></h3>
-      <a href="https://github.com/mitty754?tab=repositories">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mitty754&repo=Repositorio_Investigacion-Operaciones&theme=nightowl&show_owner=true" alt="Otro Repo" />
       </a>
     </td>
   </tr>
