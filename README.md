@@ -9,7 +9,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://github.com/mitty754/mitty754/blob/main/stars.jpg">
 </div>
 
 <!--Header Name-->
@@ -21,13 +21,11 @@
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- ✨ Vida de estudiante :)
+- 🌱 Cada día me quedo mas ciego pero es divertido.
+- 🏙 Toda una vida para aprender...ojala alcance.
+- 💁‍♂️ Todo es culpa de Bill.
+- ✍ Todo esto obvio no es profesional, pero por ahora estará bien, creo.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
