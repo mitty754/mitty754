@@ -75,18 +75,19 @@
 
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<h2 align="center">🌟 Pensamiento del día 🌟</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p>
+
+> ❝ Odio las clases virtuales... ❞
+>
+> — *Yo, ¿quien más?*
 <!--ENDS_HERE_QUOTE_CARD-->
 
 
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">🤝 Contactos 🤝 </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -100,9 +101,6 @@
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://twitter.com/kiran__a__n" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
-</a>
 </div>
 
 <!--Footer--> 
