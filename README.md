@@ -28,7 +28,9 @@
 - ✍ Todo esto obvio no es profesional, pero por ahora estará bien, creo.
 <!--End Intro-->
 
-<!--Languages and Tools Section-->       
+<!--Languages and Tools Section-->   
+<br />
+<br />
 <h2 align="center">Lenguajes y Herramientas</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
@@ -47,42 +49,47 @@
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
-      </p>
+    <td width="33%" align="center">
+      <h3><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <a href="https://github.com/mitty754">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mitty754&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+      </a>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
+    <td width="33%" align="center">
+      <h3><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <a href="https://github.com/mitty754">
+        <img width="100%" src="https://streak-stats.demolab.com?user=mitty754&theme=nightowl" alt="Streak Stats" />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <h3><strong>Tᴏᴘ Lᴀɴɢs</strong></h3>
+      <a href="https://github.com/mitty754">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitty754&layout=compact&theme=nightowl" alt="Top Languages" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
-        </a>
-      </p>
+    <td width="33%" align="center">
+      <h3><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <a href="https://github.com/mitty754/mitty754">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mitty754&repo=mitty754&theme=nightowl&show_owner=true" alt="Latest Project" />
+      </a>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-        </a>
-      </p>
+    <td width="33%" align="center">
+      <h3><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <a href="https://github.com/mitty754">
+        <img width="100%" src="https://github-contributor-stats.vercel.app/api?username=mitty754&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Contributions" />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <h3><strong>Rᴇᴘᴏs Pᴜ́ʙʟɪᴄᴏs</strong></h3>
+      <a href="https://github.com/mitty754?tab=repositories">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mitty754&repo=Repositorio_Investigacion-Operaciones&theme=nightowl&show_owner=true" alt="Otro Repo" />
+      </a>
     </td>
   </tr>
 </table>
+
 <br />
 
 <!--Contribution Graph-->
