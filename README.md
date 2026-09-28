@@ -75,19 +75,23 @@
 
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Pensamiento del día 🌟</h2>
+<h2 align="center">💭 Pensamiento del día 💭</h2>
 
-<!--STARTS_HERE_QUOTE_CARD-->
-
-> ❝ Odio las clases virtuales... ❞
->
-> — *Yo, ¿quien más?*
-<!--ENDS_HERE_QUOTE_CARD-->
+<table align="center" width="70%">
+  <tr>
+    <td>
+      <blockquote>
+        <p>❝ Escuchar música hace todo mejor ❞</p>
+        <p align="right"><em>— Yo, ¿quien más?</em></p>
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
 
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Contactos 🤝 </h2>
+<h2 align="center"> Contactoooos  </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
