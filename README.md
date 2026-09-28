@@ -1,5 +1,11 @@
 <!--Banner-->
-![mitty754 Banner Image](https://github.com/mitty754/mitty754/blob/main/my_banner.jpg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./my_banner.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="./my_banner.jpg">
+    <img alt="Banner de mitty754" src="./my_banner.jpg" width="100%">
+  </picture>
+</p>
 
 <!--Night Owl image-->
 <div>
